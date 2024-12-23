@@ -1,0 +1,5 @@
+Address of p[0] = 0x16bbd7178
+Address of p[1] = 0x16bbd717c
+Address of p[2] = 0x16bbd7180
+Address of (p[0] + 1) = 0x16bbd717c
+Value of (p[0] + 1) = 2
